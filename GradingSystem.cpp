@@ -216,7 +216,7 @@ class Profile
 int main()
 {
 	system("pause");
-	
+	welcome();
 	main_menu();
 	getch();
 	
